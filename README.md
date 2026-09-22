@@ -12,6 +12,8 @@ Last confirmed reset **2026-09-04** · Max plans · [announcement](https://x.com
 
 <p><img src="https://inmve.github.io/next-reset/readme/claude.svg?v=2fefe23c5dbe" width="180" height="135" alt="Meditating pelican"><br><em>Take your time.</em></p>
 
+## Get notifications
+
 Star to save this repo. For reset notifications: **Watch → Custom → Releases**.
 
-Less minimalistic version — [Next Reset](https://inmve.github.io/next-reset/).
+Check out website — [Next Reset](https://inmve.github.io/next-reset/).
