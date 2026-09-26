@@ -1,19 +1,43 @@
-# Codex reset is upcoming
+# AI usage-limit reset alerts
 
 ## Get notifications
 
+Choose the tool you want alerts for:
+
+- [Codex reset alerts](https://github.com/inmve/codex-reset-alerts)
+- [Claude Code reset alerts](https://github.com/inmve/claude-reset-alerts)
+- [Grok Bot reset alerts](https://github.com/inmve/grok-reset-alerts)
+
+You can also keep watching this repository for combined updates.
+
 For reset notifications: **Watch → Custom → Releases**.
 
-## Codex / OpenAI
+## Current status
 
-Reset announced for **2026-09-22** · [announcement](https://x.com/thsottiaux/status/2102254445082116335)
+### Codex / OpenAI
 
-<p><img src="https://inmve.github.io/next-reset/readme/codex.svg?v=c5674dab59c9" width="180" height="135" alt="Pelican riding a bicycle"><br><em>Enjoy the ride.</em></p>
+**Reset announced — awaiting confirmation**
 
-## Claude Code / Anthropic
+The source announces a reset. Completion has not been confirmed; check your account for availability. Date not announced. The announcement covers all paid users across Codex and ChatGPT Work.
 
-Last confirmed reset **2026-09-04** · Max plans · [announcement](https://x.com/lydiahallie/status/2095967323412930677)
+> we’ll reset usage limits for all paid users across codex and ChatGPT work
 
-<p><img src="https://inmve.github.io/next-reset/readme/claude.svg?v=0a64cd123f3a" width="180" height="135" alt="Meditating pelican"><br><em>Make your tokens count.</em></p>
+[@thsottiaux · 2026-09-26 00:07 UTC · Original source](https://x.com/thsottiaux/status/2103637477760311522)
+
+### Claude Code / Anthropic
+
+**No newer reset announcement is recorded**
+
+Banked reset announced September 22. Check your account for availability and eligibility.
+
+[Anthropic · 2026-09-22 · Original source](https://x.com/AnthropicAI/status/2102435703535939725)
+
+### Grok Bot / xAI
+
+**No newer reset announcement is recorded**
+
+Last recorded reset confirmation: September 5. Grok Bot only.
+
+[@bot · 2026-09-05 18:24 UTC · Original source](https://x.com/bot/status/2096303514230423629)
 
 Check out website — [Next Reset](https://inmve.github.io/next-reset/).
